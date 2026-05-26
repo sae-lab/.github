@@ -78,9 +78,9 @@
 
 | 리포지토리 | 설명 |
 |-----------|------|
-| `walk-tour-app` | Flutter 앱 (iOS/Android) |
-| `walk-tour-api` | Spring Boot REST API 서버 |
-| `walk-tour-infra` | AWS 인프라 구성 (IaC) |
+| `FrontEnd` | Flutter 앱 (iOS/Android) |
+| `Backend` | Spring Boot REST API 서버 |
+| `infra` | AWS 인프라 구성 (IaC) |
 
 ---
 
