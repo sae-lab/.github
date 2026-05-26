@@ -12,6 +12,11 @@
 사용자의 가용 시간과 체력에 맞는 **도보 루트 기반 슬로우 관광** 경험을 제공합니다.  
 스페인 산티아고 순례길처럼 — **걷는 과정 자체가 여행의 목적**이 되는 서비스입니다.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcfd001d-3d27-43d3-a0cd-e1cd8770ce84" alt="강원의 길 앱 미리보기" width="700" />
+</p>
+
+
 ---
 
 ## 🎯 핵심 기능
